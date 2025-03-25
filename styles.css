@@ -1,0 +1,53 @@
+#power-generator {
+    background: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    color: #f8f8f2;
+}
+
+#power-generator h2 {
+    color: #ff6600;
+}
+
+#power-generator form {
+    margin-bottom: 20px;
+}
+
+#power-generator label {
+    color: #ff9900;
+}
+
+#power-generator select, #power-generator input {
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#power-generator button {
+    padding: 10px 20px;
+    background-color: #ff6600;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+#generated-powers {
+    background: #444;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#generated-powers ul {
+    list-style: none;
+    padding: 0;
+}
+
+#generated-powers li {
+    margin: 10px 0;
+    color: #f8f8f2;
+}
